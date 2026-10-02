@@ -1,8 +1,9 @@
-# Dock Flatpak repository
+# Kuyacarlo Flatpak repository
 
-This branch publishes the signed OSTree repository served at
-https://kuyacarlo.github.io/flatpak-repo/.
+This signed repository is served at https://kuyacarlo.github.io/flatpak-repo/
 
-Add it with `flatpak remote-add --user --if-not-exists dock
-https://kuyacarlo.github.io/flatpak-repo/dock.flatpakrepo`, then install with
-`flatpak install dock dev.kuyacarlo.Dock`.
+Add it with `flatpak remote-add --user --if-not-exists karlo-apps https://kuyacarlo.github.io/flatpak-repo/kuyacarlo.flatpakrepo`, then install any listed application by its ID.
+
+Published applications:
+
+- `dev.kuyacarlo.Dock`
