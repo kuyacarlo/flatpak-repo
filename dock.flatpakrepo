@@ -1,6 +1,6 @@
 [Flatpak Repo]
 Title=Kuyacarlo Apps
-Url=https://kuyacarlo.github.io/flatpak-repo/
+Url=https://flatpak.kuyacarlo.dev/
 Homepage=https://github.com/kuyacarlo/flatpak-repo
 Comment=Applications published by Kuyacarlo
 Description=Install and update applications from the signed Kuyacarlo Flatpak repository.

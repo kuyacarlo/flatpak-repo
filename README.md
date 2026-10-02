@@ -1,8 +1,8 @@
 # Kuyacarlo Flatpak repository
 
-This signed repository is served at https://kuyacarlo.github.io/flatpak-repo/
+This signed repository is served at https://flatpak.kuyacarlo.dev/
 
-Add it with `flatpak remote-add --user --if-not-exists kuyacarlo-apps https://kuyacarlo.github.io/flatpak-repo/kuyacarlo.flatpakrepo`, then install any listed application by its ID.
+Add it with `flatpak remote-add --user --if-not-exists kuyacarlo-apps https://flatpak.kuyacarlo.dev/kuyacarlo.flatpakrepo`, then install any listed application by its ID.
 
 Published applications:
 
